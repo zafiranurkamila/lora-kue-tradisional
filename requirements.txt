@@ -1,0 +1,11 @@
+# PyTorch diinstal terpisah dengan CUDA 12.8 (cu128), lihat KONTRAK.md bagian 8.
+# Versi akan dikunci setelah instalasi di PC Zafira berhasil.
+diffusers
+transformers
+accelerate
+peft
+bitsandbytes
+datasets
+tensorboard
+gradio
+pillow
