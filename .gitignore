@@ -1,0 +1,28 @@
+# dataset, model & hasil training (besar, dibagikan lewat Google Drive)
+data/*
+!data/README.md
+outputs/
+*.safetensors
+*.ckpt
+*.bin
+*.pt
+*.pth
+*.zip
+
+# cache Hugging Face / model
+.cache/
+hf_cache/
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# env
+.venv/
+venv/
+.env
+
+# gradio
+flagged/
+.gradio/
